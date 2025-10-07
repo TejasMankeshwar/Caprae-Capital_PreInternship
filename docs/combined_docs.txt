@@ -1,0 +1,257 @@
+This browser is no longer supported.
+Upgrade to Microsoft Edge to take advantage of the latest features, security updates, and technical support.
+Share via
+Note
+Access to this page requires authorization. You can trysigning inorchanging directories.
+Access to this page requires authorization. You can trychanging directories.
+AI models and business scenarios
+In this article
+In AI Builder, you can choose from several model types that are suited to different business scenarios. Here are some examples:
+If you want to use intelligence to detect your products in images, you can refine acustomAI Builder object detection model. With a customizable model, you build, train, and publish it for your intended use.
+If you want to use intelligence to automate your expense reports by scanning and processing business receipts, you can use aprebuiltAI Builder receipt scanning model. All prebuilt models allow you to go straight to productivity.
+If you want to design a marketing campaign based on patterns in your historical data, you can use acustomprediction model tailored to your business, using your own historical data.
+These models are only a few of the ways you can use AI Builder to add intelligence to your business processes.
+To build a model with AI Builder:
+Sign in toPower AppsorPower Automate.
+On the left pane, select... More>AI hub.
+SelectAI models.
+(Optional)To keepAI modelspermanently on the menu for easy access, select the pin icon.
+On the right pane, select the model type that matches what you want to do. You're ready to get started.
+
+Model types
+The following table lists the data type, models type, and build type.
+Data type: Describes the type of AI that the models use (for example, documents, text, structured data, or images).
+Build type: Indicates whether it's a customizable model that you need to build, train, and publish for your intended use, or if it's a prebuilt model that's ready to use. In general, usecustomAI Builder models for applications where you're working with data that's unique to your business. Useprebuiltmodels for scenarios that are common across different types of businesses.
+Common business scenariosand the model types that are suited to them are described later in this article.
+Common business scenarios
+The different types of AI models in AI Builder provide you with a broad range of AI capabilities without the need for coding or data expertise. Here are some common business scenarios, and the preferred AI model types for addressing them:
+Next step
+Build a model
+Related information
+Feature availability by region
+Feedback
+Was this page helpful?
+Need help with this topic?
+Want to try using Ask Learn to clarify or guide you through this topic?
+Additional resources
+In this article
+Was this page helpful?
+Need help with this topic?
+Want to try using Ask Learn to clarify or guide you through this topic?
+
+Comparing business models: Apple, Alphabet, Microsoft, Amazon & Facebook
+All five tech giants have similar business model building blocks, but the importance of each block varies in each model. We break it down for you in a first rough conceptual prototype.
+
+The table above that Iâve put together was triggered by this great visual put together by Visual Capitalist (scroll down to the bottom of this post to see the image). The image by Visual Capitalist does a great job of comparing the major revenues. I thoughtÂ it could be interesting to break that comparison down even further beyond the revenue element of each companyâs business model.When you look at the prototype table above you see how all five companies have very similar building blocks, but the importance of each one of those building blocks vary in each business model. This is a very rough comparison; and if I had taken more time, Iâd have drawn up and compared Business Model Canvases for each company. And if you attend ourmaster workshopsor take anonline course, youâll see that weâve analyzed some of the above business models in more detail (e.g. the evolution of Appleâs business model over time).This is a work-in-progress, and I welcome your feedback or comments to help progress this analysis. Click through to the spreadsheet andleave me your thoughts directly in the document.
+
+About the speakers
+Dr. Alexander (Alex) Osterwalder is one of the worldâs most influential innovation experts, a leading author, entrepreneur and in-demand speaker whose work has changed the way established companies do business and how new ventures get started.
+Download your free copy of this whitepaperÂ now
+Explore more innovation insights in our knowledge library
+Get Strategyzer updates straight in your inbox
+Comparing business models: Apple, Alphabet, Microsoft, Amazon & Facebook
+Comparing business models: Apple, Alphabet, Microsoft, Amazon & Facebook
+All five tech giants have similar business model building blocks, but the importance of each block varies in each model. We break it down for you in a first rough conceptual prototype.
+
+The table above that Iâve put together was triggered by this great visual put together by Visual Capitalist (scroll down to the bottom of this post to see the image). The image by Visual Capitalist does a great job of comparing the major revenues. I thoughtÂ it could be interesting to break that comparison down even further beyond the revenue element of each companyâs business model.When you look at the prototype table above you see how all five companies have very similar building blocks, but the importance of each one of those building blocks vary in each business model. This is a very rough comparison; and if I had taken more time, Iâd have drawn up and compared Business Model Canvases for each company. And if you attend ourmaster workshopsor take anonline course, youâll see that weâve analyzed some of the above business models in more detail (e.g. the evolution of Appleâs business model over time).This is a work-in-progress, and I welcome your feedback or comments to help progress this analysis. Click through to the spreadsheet andleave me your thoughts directly in the document.
+
+
+All five tech giants have similar business model building blocks, but the importance of each block varies in each model. We break it down for you in a first rough conceptual prototype.
+
+
+Sign in
+Partner
+Partnership
+Get started
+Join the partner program
+Partner benefits packages
+Software development companies
+Compare offerings
+Build
+AI
+Strengthen your security
+Solution areas
+Go to market
+Marketing resources
+Microsoft Marketplace
+Program resources
+Sell
+Sell with Microsoft
+Cloud Solution Provider
+New commerce experience
+Partner incentives
+Licensing for partners
+Differentiate
+Solutions Partner designations
+Specializations
+Azure Expert MSP
+Explore
+By opportunity
+Industries
+Device partners
+Learning partners
+Education partners
+Nonprofit
+By solution area
+Azure for partners
+Business Applications for partners
+Modern Work for partners
+Security for partners
+Connect
+Partner moments
+MCAPS Start for Partners
+Microsoft Ignite
+Partner of the Year Awards
+Partner communities
+Microsoft Partner Community
+Specializations community space
+Partner-led associations
+Blogs & stories
+Microsoft Partner blog
+Partner Success stories
+Skilling
+Support & Advisory
+Support
+Partner support plans
+Technical presales and deployment
+Find a partner
+More
+Partnership
+Get started
+Join the partner program
+Partner benefits packages
+Software development companies
+Compare offerings
+Build
+AI
+Strengthen your security
+Solution areas
+Go to market
+Marketing resources
+Microsoft Marketplace
+Program resources
+Sell
+Sell with Microsoft
+Cloud Solution Provider
+New commerce experience
+Partner incentives
+Licensing for partners
+Differentiate
+Solutions Partner designations
+Specializations
+Azure Expert MSP
+Explore
+By opportunity
+Industries
+Device partners
+Learning partners
+Education partners
+Nonprofit
+By solution area
+Azure for partners
+Business Applications for partners
+Modern Work for partners
+Security for partners
+Connect
+Partner moments
+MCAPS Start for Partners
+Microsoft Ignite
+Partner of the Year Awards
+Partner communities
+Microsoft Partner Community
+Specializations community space
+Partner-led associations
+Blogs & stories
+Microsoft Partner blog
+Partner Success stories
+Skilling
+Support & Advisory
+Support
+Partner support plans
+Technical presales and deployment
+Find a partner
+Partner Center
+Partner Center
+All Microsoft
+Partner
+Join us at Microsoft Ignite, November 18-21
+Get the edge you need to drive impact in the era of AI. Join us in person or online at Microsoft Ignite to explore emerging technologies, connect, and grow your skills.
+Register now
+Build and sell your solutions—at the scale of Microsoft
+Secure your seat for Microsoft Ignite, November 18–21, 2025
+Paths for partnership
+
+Microsoft for Startups
+ISV Success
+Partner benefits packages
+Solutions Partner designations
+Get started
+Create an account
+Confirm your company’s details
+Validate your credentials
+Program benefits and incentives
+Resources to help you achieve more
+Access the resources you need to develop and deliver high-performing, customer-centric AI solutions on the Microsoft Cloud.
+Marketing benefits
+Support and advisory benefits
+Skilling benefits
+Partner incentives
+Resources to help you achieve more
+Access the resources you need to develop and deliver high-performing, customer-centric AI solutions on the Microsoft Cloud.
+Marketing benefits
+Support and advisory benefits
+Skilling benefits
+Partner incentives
+Go to market faster with Microsoft
+Drive demand for your offers with easy-to-use marketing resources.
+Get help directly in Partner Center
+Explore support articles or submit a request.
+Skill your way to a more profitable future
+Unlock training and certification resources to build your expertise.
+Get rewarded for customer success
+Our incentives portfolio rewards your success to help you drive more profitability.
+Become a partner
+
+Global
+What is Azure?
+
+What is Microsoft Azure?
+Key takeaways
+Why do organizations choose Azure?
+Cloud platform—wherever you are
+Enterprise expertise
+Extensive partner network
+Industry-leading AI developer services
+Built-in security
+What does Azure do?
+Taking businesses to the next level
+Optimizing operations
+Managing distributed environments
+Providing cost-effective scalability
+Improving decision-making
+Accelerating developer productivity
+See innovation in action
+Supporting AI-powered innovation
+Supercomputing power for AI
+End-to-end AI platform
+Empowering responsible AI
+Providing cloud service models
+What is Azure used for?
+Bringing ideas to life
+Seamlessly unifying technology
+Innovating on trust
+Shaping the future of innovation
+Learn more about Azure, get innovation insights, and build your skills.
+Azure innovation insights
+Azure training and certifications
+Azure Fundamentals course
+Frequently asked questions
+What is Microsoft Azure in simple terms?
+Is Azure a datacenter?
+Why would a company use Azure?
+What is the difference between the Microsoft Cloud and Azure?
+How can I learn Azure?
+AI-powered assistant
+Can we help you?
+AI-powered assistant is available 24x7.
+
