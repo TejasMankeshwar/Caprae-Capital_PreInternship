@@ -1,0 +1,11 @@
+everything site reliability engineering
+Which companies implement SRE like Google does?
+Do any companies beside Google implement theSRE model like Google does?
+So far my experience with companies who do "DevOps" goes from "in name only, but it's actually just devs and ops" to actually DevOps in the sense of devs and ops workingtogether. The latter companies often implement Scrum and Agile in general in a recognizable way.
+SRE is an even more colorful mix: that goes from pure Ops to DevOps to SRE like Google does it. The job descriptions sometimes give it away, but not always.
+The Google SRE model resonates with me a lot. It's how Ops should be. It's well thought out. But it might not work for other companies for reasons I can't imagine but which nonetheless could exist.
+So: Do any other companies beside Google implement SRE like Google does?
+Related Answers Section
+Create your account and connect with a world of communities.
+Anyone can view, post, and comment to this community
+Top Posts
